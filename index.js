@@ -45,7 +45,7 @@ var highScores = [
 ]
 
 const play = (username) => {
-  for(i = 0 ; i<3; i++){
+  for(i = 0 ; i<5; i++){
     var userAnswer = readLineSync.question(chalk.bold("Q"+(i+1)+". "+ chalk.underline(questionAnswerSet[i].question))+"\n\t");
     if(userAnswer.toUpperCase() === questionAnswerSet[i].answer.toUpperCase()){
       console.log(chalk.green("\tYou are right!"));
