@@ -18,15 +18,25 @@ const questionAnswerSet = [
 
     answer: "France"
   }
+  {
+    question: "Latest club of Leonel Messi?(intitals only) ",
+
+    answer: "PSG"
+  }
+  {
+    question: "Previous club of Cristiano Ronaldo? ",
+
+    answer: "juventus"
+  }
 ]
 var highScores = [
   {
     name: "Anant",
-    score: 3
+    score: 5
   },
   {
     name: "Daxu",
-    score: 2
+    score: 3
   },
   {
     name: "Vaibhu",
