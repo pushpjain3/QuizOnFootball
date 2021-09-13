@@ -17,12 +17,12 @@ const questionAnswerSet = [
     question: "Who won previous FIFA world cup? ",
 
     answer: "France"
-  }
+  },
   {
     question: "Latest club of Leonel Messi?(intitals only) ",
 
     answer: "PSG"
-  }
+  },
   {
     question: "Previous club of Cristiano Ronaldo? ",
 
